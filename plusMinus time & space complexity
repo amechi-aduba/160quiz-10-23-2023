@@ -1,0 +1,1 @@
+The time complexity for plus minus would only be O(n) since my code only searches through the list of integers n times. The space complexity would be O(1) because it is not doing more work based on input size.
